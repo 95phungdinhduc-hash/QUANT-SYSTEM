@@ -1,5 +1,5 @@
 # QUANT-SYSTEM
-quant system by LittleDuckii
+Quant system by LittleDuckii
 
 Khi code xong phải chạy file 1 trước để nó lấy dữ liệu thừ binance sau đó mới chạy tiếp file 2.
 
