@@ -4,6 +4,7 @@ Quant system by LittleDuckii
 Khi code xong phải chạy file 1 trước để nó lấy dữ liệu thừ binance và nó sẽ hiện lên 1 file quantdb sau đó mới chạy tiếp file 2.
 
 Lệnh chạy file 2 là streamlit run 2_dashboard.py còn các file còn lại run bình thường là được
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 Nếu mà muốn xài con bot ở file 4 á thì 
