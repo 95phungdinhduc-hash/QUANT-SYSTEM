@@ -1,7 +1,7 @@
 # QUANT-SYSTEM
 Quant system by LittleDuckii
 
-Khi code xong phải chạy file 1 trước để nó lấy dữ liệu thừ binance sau đó mới chạy tiếp file 2.
+Khi code xong phải chạy file 1 trước để nó lấy dữ liệu thừ binance và nó sẽ hiện lên 1 file quantdb sau đó mới chạy tiếp file 2.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
