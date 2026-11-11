@@ -1,5 +1,10 @@
 # QUANT-SYSTEM
 quant system by LittleDuckii
+
+Khi code xong phải chạy file 1 trước để nó lấy dữ liệu thừ binance sau đó mới chạy tiếp file 2.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 Nếu mà muốn xài con bot ở file 4 á thì 
 
 B1: Vào TELEGRAM 
